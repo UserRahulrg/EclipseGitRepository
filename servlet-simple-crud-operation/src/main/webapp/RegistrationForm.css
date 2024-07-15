@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+	*{
+		padding:10px 10px 10px 10px;
+	}
+	
+	form{
+		border-radius: 10px;
+		border-color: black;
+	}
+	
+	
+
+
